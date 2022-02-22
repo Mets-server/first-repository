@@ -1,2 +1,2 @@
 # first-repository
-test repository
+Hello GitHub
